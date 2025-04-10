@@ -5,7 +5,7 @@
 - 💞️ I’m looking to collaborate on open-source projects and web applications  
 - 📫 How to reach me:  
   - ✉️ Email: ramanyadav.jobs@gmail.com  
-  - 🔗 LinkedIn: [@raman-yadav]([https://www.linkedin.com/in/raman-yadav-368518257])  
+  - 🔗 LinkedIn: [@raman-yadav](https://www.linkedin.com/in/raman-yadav-368518257)  
   - 🏗️ GitHub: [@ramanyadav9](https://github.com/ramanyadav9)
   
 
