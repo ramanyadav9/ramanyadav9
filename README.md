@@ -66,13 +66,6 @@ Tools          Git · Linux · Docker · Kafka · SQLAlchemy
 
 ---
 
-## 📊 GitHub Stats
-
-![Raman's GitHub stats](https://github-readme-stats.vercel.app/api?username=ramanyadav9&show_icons=true&theme=default&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ramanyadav9&layout=compact&hide_border=true)
-
----
-
 ## 📬 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-raman--yadav--368518257-blue?style=flat&logo=linkedin)](https://linkedin.com/in/raman-yadav-368518257)
@@ -80,17 +73,9 @@ Tools          Git · Linux · Docker · Kafka · SQLAlchemy
 [![Portfolio](https://img.shields.io/badge/Portfolio-ramanyadav.me-green?style=flat&logo=globe)](https://raman-portfolio-xhz0.onrender.com)
 
 ---
-
+Thanks for stopping by! Feel free to check out my repositories and drop a message if you’d like to collaborate 😊
 *Final-year B.Tech CSE @ G H Raisoni College of Engineering & Management, Nagpur · Graduating 2026* 
 
-## 🔗 Let's Connect
-- 📫 Email: [ramanyadav.jobs@gmail.com](mailto:ramanyadav.jobs@gmail.com)  
-- 🔗 LinkedIn: [linkedin.com/in/raman-yadav-368518257](https://www.linkedin.com/in/raman-yadav-368518257)  
-- 💻 GitHub: [github.com/ramanyadav9](https://github.com/ramanyadav9)  
-- 🌐 Portfolio: [ramanyadav.me](https://raman-portfolio-xhz0.onrender.com) 
----
-
-Thanks for stopping by! Feel free to check out my repositories and drop a message if you’d like to collaborate 😊
 
   
 
