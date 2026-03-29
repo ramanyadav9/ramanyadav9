@@ -29,7 +29,7 @@ I build production-grade systems — from enterprise SIEM platforms and AI-power
 
 ## 🛠️ Projects
 
-### [Drishti – AI Surveillance System](https://github.com/ramanyadav9)
+### [Drishti – AI Surveillance System](https://github.com/ramanyadav9) Final Year Project
 > YOLOv8 · ByteTrack · InsightFace · FAISS · MediaPipe · FastAPI · React · ChromaDB · LangChain · PostgreSQL
 
 Real-time AI surveillance platform with multi-camera support, face recognition, zone violation detection, and a RAG-based natural language query interface over all surveillance events.
