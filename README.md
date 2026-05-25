@@ -1,81 +1,163 @@
-# Hi, I'm Raman Yadav 👋
+<div align="center">
 
-**Final-year CSE undergrad** · Backend & AI Engineer · Cybersecurity Enthusiast
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Raman%20Yadav&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Backend%20Engineer%20·%20AI%20Builder%20·%20Security%20Tinkerer&descAlignY=58&descSize=18" width="100%"/>
 
-I build production-grade systems — from enterprise SIEM platforms and AI-powered SOC assistants to real-time surveillance pipelines and voice-based incident alerting systems. Currently interning at **Velotech LLP (Velo Cabs)** and wrapping up my final year project **Drishti**, an AI surveillance platform.
+</div>
 
----
+<div align="center">
 
-## 🚀 What I'm Working On
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/raman-yadav-368518257)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://raman-portfolio-xhz0.onrender.com)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:9ramanyadav@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ramanyadav9)
 
-- **Drishti** — AI surveillance system with YOLOv8, ByteTrack, InsightFace+FAISS, MediaPipe, and a RAG-based natural language query layer (Final Year Project)
-- **Marketing Automation Agent** @ Velotech LLP — LangChain-based agent for social media content generation and scheduling
-
----
-
-## 💼 Experience
-
-**Cybersecurity & Full Stack Intern** — Virtual Galaxy Infotech Ltd. *(Jul 2025 – Jan 2026)*
-> Contributed to **CyberSentinel-SIEM v2.0** — an enterprise security platform
-- Built SIEM dashboard (React.js + Node.js + OpenSearch) with real-time WebSocket metrics and virtual scrolling
-- Developed a Flask reverse proxy WAF with ModSecurity, custom SQLi/XSS detection logic, and attack analytics dashboard
-- Contributed to **SentinelAI** — a full-stack LLM-driven SOC assistant (FastAPI + RAG + MCP + React) with 4 custom MCP tool servers
-- Built a bidirectional voice alerting system (FreeSWITCH + LiveKit + STT/TTS) for automated incident notifications
-
-**Software Trainee Intern (Part-time)** — Velotech LLP / Velo Cabs *(Mar 2026 – Present)*
-> Building an AI marketing automation agent using Python and LangChain
+</div>
 
 ---
 
-## 🛠️ Projects
+## 👨‍💻 About Me
 
-### [Drishti – AI Surveillance System](https://github.com/ramanyadav9) Final Year Project
-> YOLOv8 · ByteTrack · InsightFace · FAISS · MediaPipe · FastAPI · React · ChromaDB · LangChain · PostgreSQL
-
-Real-time AI surveillance platform with multi-camera support, face recognition, zone violation detection, and a RAG-based natural language query interface over all surveillance events.
-
-### [SentinelAI – AI Cybersecurity SOC Assistant](https://github.com/ramanyadav9)
-> FastAPI · Qwen · DeepSeek · RAG · MCP · ChromaDB · Ollama · React
-
-LLM-powered SOC assistant for autonomous log analysis, threat investigation, and detection rule generation. Built 4 custom MCP tool servers giving the LLM structured access to OpenSearch and SIEM workflows.
-
-### [Conversational AI – Voice Incident Alerting](https://github.com/ramanyadav9)
-> FreeSWITCH · LiveKit · Deepgram · ElevenLabs · Sarvam · FastAPI · LLM · WebRTC
-
-Production-ready bidirectional voice call system: SIEM alert → SIP outbound call → LiveKit WebRTC → STT → LLM → TTS. Multi-provider with automatic fallback. Response latency <800ms.
-
-### [PyWithRaman – Full-Stack Blog](https://github.com/ramanyadav9)
-> Django · PostgreSQL · SMTP · Pillow
-
-Full-stack blog platform with user auth, SMTP password reset, CRUD, and image uploads.
-
----
-
-## 🧠 Tech Stack
-
-```
-Languages      Python · C · C++
-Backend        FastAPI · Django · Flask · Node.js · REST APIs · WebSocket · SSE
-Frontend       React.js · TailwindCSS · Vite
-Databases      PostgreSQL · MySQL · MongoDB · OpenSearch · ChromaDB · FAISS
-AI / ML        LLMs · RAG · MCP · LangChain · Ollama · vLLM · YOLOv8 · ByteTrack
-               InsightFace · MediaPipe · Hugging Face · sentence-transformers
-Security       ModSecurity · OWASP CRS · STIX/TAXII · Wazuh · JWT
-Tools          Git · Linux · Docker · Kafka · SQLAlchemy
+```python
+raman = {
+    "role":        "Backend & AI Engineer",
+    "education":   "B.Tech CSE @ GH Raisoni College, Nagpur · Graduating 2026",
+    "passions":    ["AI systems", "cybersecurity", "real-time pipelines", "voice AI"],
+    "currently":   "Building Drishti — an AI-powered surveillance platform (FYP)",
+    "strengths":   ["backend architecture", "LLM integrations", "system design"],
+    "fun_fact":    "I once built a voice call system with <800ms LLM response latency 🎙️"
+}
 ```
 
 ---
 
-## 📬 Connect
+## 🧠 What I Love Building
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-raman--yadav--368518257-blue?style=flat&logo=linkedin)](https://linkedin.com/in/raman-yadav-368518257)
-[![Email](https://img.shields.io/badge/Email-9ramanyadav@gmail.com-red?style=flat&logo=gmail)](mailto:9ramanyadav@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-ramanyadav.me-green?style=flat&logo=globe)](https://raman-portfolio-xhz0.onrender.com)
+<table>
+<tr>
+<td width="50%">
+
+**🔐 Cybersecurity Systems**
+> SIEM platforms, WAF proxies, SOC assistants, threat intelligence tools — I love building things that protect systems at scale.
+
+</td>
+<td width="50%">
+
+**🤖 AI & LLM Applications**
+> RAG pipelines, MCP servers, multi-agent systems, custom tool integrations — making LLMs actually *do useful things*.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**🎙️ Voice & Real-Time Systems**
+> WebRTC, STT/TTS pipelines, LiveKit, FreeSWITCH — bidirectional voice systems that feel instant.
+
+</td>
+<td width="50%">
+
+**👁️ Computer Vision Pipelines**
+> Object detection, face recognition, pose estimation — real-time multi-camera AI surveillance.
+
+</td>
+</tr>
+</table>
 
 ---
-Thanks for stopping by! Feel free to check out my repositories and drop a message if you’d like to collaborate 😊
-*Final-year B.Tech CSE @ G H Raisoni College of Engineering & Management, Nagpur · Graduating 2026* 
 
+## 🛠️ Tech Stack
 
-  
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
+### Backend & APIs
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=socket.io&logoColor=white)
+
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+
+### Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![OpenSearch](https://img.shields.io/badge/OpenSearch-005EB8?style=flat-square&logo=opensearch&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=flat-square&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat-square&logo=meta&logoColor=white)
+
+### AI / ML
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square&logoColor=black)
+![vLLM](https://img.shields.io/badge/vLLM-7C3AED?style=flat-square&logoColor=white)
+
+### Security
+![ModSecurity](https://img.shields.io/badge/ModSecurity-CC0000?style=flat-square&logoColor=white)
+![Wazuh](https://img.shields.io/badge/Wazuh-3AAFA9?style=flat-square&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![OWASP](https://img.shields.io/badge/OWASP_CRS-000000?style=flat-square&logo=owasp&logoColor=white)
+
+### DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+| Project | What it does | Stack |
+|---------|-------------|-------|
+| 🎯 **[Drishti](https://github.com/ramanyadav9)** | AI surveillance · multi-camera · face recognition · zone violations · NL query layer | YOLOv8 · ByteTrack · InsightFace · FAISS · RAG · FastAPI |
+| 🛡️ **[SentinelAI](https://github.com/ramanyadav9)** | LLM-powered SOC assistant · autonomous log analysis · 4 custom MCP tool servers | FastAPI · Qwen · RAG · MCP · ChromaDB · OpenSearch |
+| 🎙️ **[Voice Alerting System](https://github.com/ramanyadav9)** | SIEM alert → SIP call → WebRTC → STT → LLM → TTS · <800ms latency | FreeSWITCH · LiveKit · Deepgram · ElevenLabs · WebRTC |
+| 🔥 **[CyberSentinel SIEM](https://github.com/ramanyadav9)** | Enterprise SIEM dashboard · WAF · real-time WebSocket metrics | React · Node.js · Flask · ModSecurity · OpenSearch |
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ramanyadav9&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramanyadav9&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ramanyadav9&theme=tokyonight&hide_border=true" />
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ramanyadav9&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" />
+</div>
+
+---
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=ramanyadav9&color=7c3aed&style=flat-square&label=Profile+Views)
+
+```
+"I don't just use AI — I build the systems that make AI useful."
+```
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%"/>
+
+</div>
